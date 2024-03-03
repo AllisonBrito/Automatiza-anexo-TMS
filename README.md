@@ -5,7 +5,8 @@ Este é um script em Python que automatiza o processo de upload de anexos para u
 ## Pré-requisitos
 
 Python 3.x
-Bibliotecas Python: selenium, pandas, webdriver_manager
+Bibliotecas Python: 
+selenium, pandas, webdriver_manager
 Navegador Google Chrome
 
 ## Como Usar
